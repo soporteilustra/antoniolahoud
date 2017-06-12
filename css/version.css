@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:700|Ubuntu|Source+Sans+Pro:400|Lato:300');
+
+.btn-call {
+  background: #009999;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  color: #fff;
+}
+.btn-call a {
+  color: #fff !important;
+  text-decoration: none;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+#header-brand {
+  padding: 1em 0em;
+}
+#header-brand .row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#header-brand .item img {
+  height: 100px;
+}
+#header-brand .item i {
+  color: #6BA938;
+  font-size: 1.7em;
+  margin-bottom: .2em;
+}
+#header-brand .item p {
+  font-size: 1em;
+}
+#header-brand .item h4 {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
+  font-size: 1em;
+  color: #545454;
+}
+#mainmenu {
+  background: #6BA938;
+}
+#banner .bnr-info h2 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 700;
+  font-size: 5em;
+}
+#banner .caption p {
+  background: #009999;
+  padding: .3em;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-transform: uppercase;
+  font-size: 1.1em;
+  letter-spacing: 2px;
+  font-weight: 300;
+  border-radius: 10px;
+}
+#sign {
+  padding: 2em;
+  background: #f2f3f5;
+}
+#sign .row {
+  display: flex;
+  align-items: center;
+}
+#sign p {
+  font-size: 1.2em;
+  font-family: 'Source Sans Pro', sans-serif;
+  cursor: #424242;
+}
+#sign p strong {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+}
+#sign a {
+  background: #009999;
+  padding: .7em 1.2em;
+  color: #fff;
+  text-decoration: none;
+}
+.profile {
+  border-radius: 10px;
+}
+.doct-list-style .owl-stage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+.doct-list-style .owl-controls {
+  display: none;
+}
+.item-post {
+  text-align: left;
+  margin-bottom: .2em;
+  min-height: 110px;
+}
+.item-post i {
+  font-size: 2em;
+  color: #6ba938;
+}
+.item-post h4 {
+  font-size: 1em;
+  text-align: left;
+  font-family: 'Ubuntu', sans-serif;
+  color: #424242;
+  display: flex;
+  align-items: center;
+  margin: .3em auto;
+}
+.item-post > h6 {
+  font-size: .8em;
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  font-weight: lighter;
+  color: #828384;
+  padding: .2em;
+  margin: 0;
+  border-radius: 4px;
+}
+.item-post > small {
+  color: #009999;
+  font-family: 'Ubuntu',sans-serif;
+  text-transform: capitalize;
+  font-size: .95em;
+}
+.textual p {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.14em;
+}
