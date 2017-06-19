@@ -80,9 +80,15 @@ h6 {
 	font-weight: bold;
 }
 p {
-	color: #666666;
-	font-size: 14px;
+	color: #636363;
+	font-family: 'Lato', sans-serif;
+	font-weight: lighter;
+	font-size: 1.1em;
 	line-height: 24px;
+}
+p strong {
+	font-weight: 100;
+	font-family: 'Ubuntu', sans-serif;
 }
 a {
 	-webkit-transition: all 0.4s ease-in-out;
@@ -975,6 +981,18 @@ header.header-2 nav {
 	top: 0px;
 	right: 20px;
 }
+#video.offer-services .nav-tabs li a {
+	padding-left: 40px;
+	line-height: 20px;
+	padding-top: 1.2em;
+	padding-bottom: 1.2em;
+}
+#video.offer-services .nav-tabs li a i {
+	float: left;
+	position: absolute;
+	top: 4px;
+	left: 5px;
+}
 .offer-services .nav-tabs li.active a i {
 	display: block;
 }
@@ -1035,6 +1053,7 @@ header.header-2 nav {
 }
 .department .tab-content .tittle {
 	margin-top: 50px;
+	margin-bottom: 2em;
 	width: 100%;
 	text-align: center;
 }
@@ -1104,49 +1123,49 @@ header.header-2 nav {
 }
 /*====	OVERVIEW BG	====*/
 .department .depart-bg-over {
-	background: url(../images/depart-bg-over.jpg) center center no-repeat;
+	background: url(../images/manga.jpg) center center no-repeat;
 	position: relative;
 	background-size: cover;
 	height: 100%;
 }
 /*====	DENTAL BG	====*/
 .department .dentel-bg {
-	background: url(../images/dental-bg-img.jpg) center center no-repeat;
+	background: url(../images/bypass.jpg) center center no-repeat;
 	position: relative;
 	background-size: cover;
 	height: 100%;
 }
 /*====	CARDIOOGY BG	====*/
 .department .cardio-bg {
-	background: url(../images/cardiology-bg-img.jpg) center center no-repeat;
+	background: url(../images/banda.jpg) center center no-repeat;
 	position: relative;
 	background-size: cover;
 	height: 100%;
 }
 /*====	FOR DISABLE BG	====*/
 .department .for-dis-bg {
-	background: url(../images/for-dis-img.jpg) center center no-repeat;
+	background: url(../images/cirugia.jpg) center center no-repeat;
 	position: relative;
 	background-size: cover;
 	height: 100%;
 }
 /*====	Ophthalmology BG	====*/
 .department .opth-bg {
-	background: url(../images/opht-bg-img.jpg) center center no-repeat;
+	background: url(../images/colon.png) center center no-repeat;
 	position: relative;
 	background-size: cover;
 	height: 100%;
 }
 /*====	EMERGENCY BG	====*/
 .department .emer-bg {
-	background: url(../images/emer-bg-img.jpg) center center no-repeat;
+	background: url(../images/apendicitis.png) center center no-repeat;
 	position: relative;
 	background-size: cover;
 	height: 100%;
 }
 /*====	X-RAY BG	====*/
 .department .x-ray-bg {
-	background: url(../images/x-ray-img.jpg) center center no-repeat;
+	background: url(../images/hemorroides.jpg) center center no-repeat;
 	position: relative;
 	background-size: cover;
 	height: 100%;
