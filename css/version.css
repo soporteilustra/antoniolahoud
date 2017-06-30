@@ -132,3 +132,16 @@
    width: 100%;
    height: 440px;
 }
+.title-doc p {
+   width: 60%;
+   margin: auto;
+   margin-bottom: 1em;
+}
+.title-doc h3 {
+   color: #6ba938;
+   text-transform: uppercase;
+   font-weight: 700;
+   font-family: 'Exo 2';
+   margin-top: 1.5em;
+   font-size: 2.5em;
+}
