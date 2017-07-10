@@ -1128,6 +1128,12 @@ header.header-2 nav {
 	background-size: cover;
 	height: 100%;
 }
+.department .hernia-bg-over {
+	background: url(../images/hernias.jpg) center center no-repeat;
+	position: relative;
+	background-size: cover;
+	height: 100%;
+}
 /*====	DENTAL BG	====*/
 .department .dentel-bg {
 	background: url(../images/bypass.jpg) center center no-repeat;

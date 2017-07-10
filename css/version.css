@@ -145,3 +145,16 @@
    margin-top: 1.5em;
    font-size: 2.5em;
 }
+.dep-title {
+   margin: 4em auto;
+}
+
+#first-dep {
+   min-height: 640px !important;
+}
+.my-0 {
+   margin-top: 0 !important;
+}
+#hernias  .tittle {
+   margin-top: 0 !important;
+}
